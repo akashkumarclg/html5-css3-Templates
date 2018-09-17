@@ -169,6 +169,31 @@ ul,ol{
 	font-size:24px;
 }
 
+
+.header{text-align: center;margin: 60px auto 50px;}
+
+.heading {
+    background: #000000 none repeat scroll 0 0;
+    border-right: 6px solid #F3542D;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 36px;
+    font-weight: normal;
+    height: 60px;
+    line-height: 42px;
+    padding: 10px 20px;
+    position: relative;
+    text-transform: uppercase;
+    transform: rotate(0deg) scale(1.003) skew(-14deg) translate(0px);
+    transform-style: flat;
+}
+.heading span {
+    display: block;
+    transform: rotate(0deg) scale(1.003) skew(14deg) translate(0px);
+    transform-style: flat;
+} 
+
+
 /**********************content***********************/
 
 .content-box{
